@@ -1,4 +1,6 @@
-# Datamesh-slimstack for SpecMesh
+# Data Mesh slimstack for SpecMesh
+
+### The MVP for building a streaming data mesh
 
 
 A demo environment that uses
